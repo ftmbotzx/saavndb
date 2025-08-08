@@ -1,0 +1,34 @@
+{
+  "worker_bots": {
+    "7744665378": {
+      "7161861893": {
+        "worker_id": "7161861893",
+        "bot_token": "7161861893:AAELYTINlhmBDc0VVSmLGuEj8EUUtaM5xV4",
+        "user_id": 7744665378,
+        "added_at": 1754669474.6206765,
+        "status": "active"
+      },
+      "8198332360": {
+        "worker_id": "8198332360",
+        "bot_token": "8198332360:AAFDcRRdcHszbv_D7IPHQHVBR8vlo3wSndE",
+        "user_id": 7744665378,
+        "added_at": 1754668058.0598528,
+        "status": "active"
+      }
+    }
+  },
+  "dump_channels": {
+    "7744665378": {
+      "channel_id": -1002698434332,
+      "set_at": 1754667948.4389832
+    }
+  },
+  "user_settings": {},
+  "task_history": [],
+  "bot_stats": {
+    "total_downloads": 0,
+    "total_tasks": 0,
+    "successful_downloads": 0,
+    "failed_downloads": 0
+  }
+}
