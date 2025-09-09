@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Main entry point for the Telegram Captain Bot system.
 This script initializes and runs the captain bot that manages worker bots
